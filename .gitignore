@@ -1,6 +1,3 @@
-# ignore pkl models due to large size
-model/
-
 # misc
 .vscode
 

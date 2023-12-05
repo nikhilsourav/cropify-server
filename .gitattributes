@@ -1,0 +1,2 @@
+model/crop_recommendation_model filter=lfs diff=lfs merge=lfs -text
+model/yield_prediction_model filter=lfs diff=lfs merge=lfs -text
